@@ -1,6 +1,19 @@
+<p align="center">
+	<img src="./banner.gif" alt="Banner" style="width:100%;max-width:1200px;height:auto;" />
+</p>
+
 ## <img src="https://camo.githubusercontent.com/6bc659a07891421494f7b9fcc9d849feee45291dfdb693de0d3d029367fec633/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" alt="API GIF" width="30" style="vertical-align:middle;margin-right:-10px;" /> About Me:
 I’m highly enthusiastic about developing backend services with Node.js and RESTful APIs, integrating databases, and building full-stack projects to strengthen my real-world software engineering skills.<br/>
 
+```javascript
+const OktavianF = {
+    fullName: "Oktavian Febrianto",
+    currentFocus: "Backend Development & Competitive Programming",
+    techStack: ["JavaScript", "TypeScript", "React", "Node.js", "Tailwind CSS"],
+    interests: "Software Engineer",
+    funFact: "I love solving complex problems and optimizing algorithms in competitive programming.",
+};
+```
 
 
 ## 💻 Tech Stack:
