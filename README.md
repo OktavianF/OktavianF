@@ -1,5 +1,3 @@
-<div style="font-family: 'Courier New', Courier, monospace;">
-
 ## <img src="https://camo.githubusercontent.com/6bc659a07891421494f7b9fcc9d849feee45291dfdb693de0d3d029367fec633/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" alt="API GIF" width="30" style="vertical-align:middle;margin-right:-10px;" /> About Me:
 I’m highly enthusiastic about developing backend services with Node.js and RESTful APIs, integrating databases, and building full-stack projects to strengthen my real-world software engineering skills.<br/>
 
@@ -18,15 +16,13 @@ I’m highly enthusiastic about developing backend services with Node.js and RES
 
 
 ## 📊 GitHub Stats:
-<table>
+<table style="width:100%;">
 	<tr>
-		<td valign="top">
-			<img src="https://github-readme-stats.vercel.app/api?username=OktavianF&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub commits stats" style="max-width:100%;height:auto;" /><br/>
-			<img src="https://nirzak-streak-stats.vercel.app/?user=OktavianF&theme=dark&hide_border=false" alt="Streak stats" style="max-width:100%;height:auto;" /><br/>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OktavianF&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" style="max-width:100%;height:auto;" />
+		<td style="vertical-align:middle;width:60%;text-align:center;padding-right:12px;">
+			<img src="https://nirzak-streak-stats.vercel.app/?user=OktavianF&theme=dark&hide_border=false" alt="Streak stats" style="max-width:100%;height:auto;display:block;margin:0 auto;" />
 		</td>
-		<td valign="middle" style="padding-left:16px;">
-			<img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="API GIF" width="300" style="max-width:100%;height:auto;" />
+		<td style="vertical-align:middle;width:40%;text-align:center;padding-left:12px;">
+			<img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="API GIF" style="width:320px;max-width:100%;height:auto;display:block;margin:0 auto;" />
 		</td>
 	</tr>
 </table>
